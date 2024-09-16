@@ -2,7 +2,7 @@
 
 ## Projeto FrontEnd
 
-## Esse projeto cria uma aplicação frontEnd com tecnologias modernas, respeitando tanto a sintaxe quando a semântica das linguagens usadas
+## Esse projeto cria uma aplicação frontEnd com tecnologias modernas, respeitando tanto a sintaxe e a semântica das linguagens usadas
 - Esse projeto usa HTML5, CSS3, BootStrap4 e JavaScript
   
 ##  💻 Repositorio gitHub
